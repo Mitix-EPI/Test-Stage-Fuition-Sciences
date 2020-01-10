@@ -1,0 +1,5 @@
+USAGE :
+    ./vacuum <name_file>
+GOAL :
+    Obtain the final position of the automatic vacuum
+    after multiple actions
