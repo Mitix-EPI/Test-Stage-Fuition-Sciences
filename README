@@ -14,7 +14,7 @@ FILE TEMPLATE :
 <origin_x> <origin_y> <origin_direction>
 <actions>
 
-EXAMPLES :
+EXAMPLE :
 ./vacuum examples_txt/file.txt
 
 >> 5 6 N
