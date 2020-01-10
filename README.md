@@ -16,9 +16,9 @@ A : move forward
 
 FILE TEMPLATE :
 
-<board's_width_max> <board's_height_max>
+<board's_width_max>  <board's_height_max>
 
-<origin_x> <origin_y> <origin_direction>
+<origin_x> <origin_y>  <origin_direction>
 
 <actions>
 
